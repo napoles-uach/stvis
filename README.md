@@ -2,7 +2,7 @@
 **Component for rendering pyvis graphs in Streamlit**
 
 
-!["streamlit_pxmap example"](image/pxmap.png)
+!["streamlit_stvis example"](image/stvis.png)
 ## Installation
 
 ```python
