@@ -1,5 +1,5 @@
 # stvis
-**Component for rendering pyvis graphs in Streamlit**
+**Component for rendering pyvis graphs on Streamlit**
 
 
 !["streamlit_stvis example"](image/stvis.png)
